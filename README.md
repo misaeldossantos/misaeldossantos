@@ -36,7 +36,7 @@
     <code>
       <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="50" height="50"/> </a>
     </code>
-    <br/>
+    <br/><br/>
      <code>
       <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
     </code>
