@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Misael</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-
+<br/>
 <div align="center">
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/misael-dos-santos10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="misael-dos-santos10" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
+<h5 align="center">Languages and Tools:</h3>
 
   <p align="center"> 
     <code>
@@ -64,8 +59,15 @@
       <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
     </code>
   </p>
+  
+  <br/><br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=misaeldossantos&show_icons=true&locale=en&layout=compact" alt="misaeldossantos" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=misaeldossantos&show_icons=true&locale=en&layout=compact)
+![GitHub stats 2](https://github-readme-stats.vercel.app/api?username=misaeldossantos&show_icons=true)
+  
+Outside of [GitHub](https://github.com/misaeldossantos), You can find me. I'm currently active on the following social networks
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misaeldossantos&" alt="misaeldossantos" /></p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/misael-dos-santos10)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/misaeldossantos)
+  
 </div>
