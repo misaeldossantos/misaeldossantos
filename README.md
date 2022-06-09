@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Misael</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />, I'm Misael</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 <h4 align="center">Welcome to my profile. I'm a full stack developer and have been working with software development since 2018.</h4>
 <br/>
