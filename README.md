@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />, I'm Misael</h1>
-<h3 align="center">A passionate full stack developer from Brazil</h3>
-<h4 align="center">Welcome to my profile. I'm a full stack developer and have been working with software development since 2018.</h4>
+<h3 align="center">Full stack developer from Brazil</h3>
+<h4 align="center">Welcome to my profile</h4>
 <br/>
 <div align="center">
-<h5 align="center">Languages and Tools:</h3>
+<h5 align="center">My skills:</h3>
 
   <div style="display: flex; flex-direction: row;">
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="50" height="50"/> </a>
