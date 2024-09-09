@@ -30,10 +30,6 @@
   </div>
   
   <br/>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=misaeldossantos&show_icons=true&locale=en&layout=compact&theme=monokai)
-  <br/>
-![GitHub stats 2](https://github-readme-stats.vercel.app/api?username=misaeldossantos&show_icons=true&theme=monokai)
   
 Outside of [GitHub](https://github.com/misaeldossantos), You can find me. I'm currently active on the following social networks
 
